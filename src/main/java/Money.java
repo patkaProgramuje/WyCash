@@ -1,18 +1,11 @@
-class Money implements Expression{
+class Money implements Expression {
 
-    private int amount;
+    int amount;
     private String currency;
 
     Money(int amount, String currency) {
         this.amount = amount;
         this.currency = currency;
-    }
-
-    @Override
-    public boolean equals(Object o) {
-        Money money = (Money) o;
-        return amount == money.amount
-                && currency().equals(money.currency());
     }
 
     static Money dollar(int amount) {
@@ -37,6 +30,18 @@ class Money implements Expression{
     }
 
     Expression plus(Money addend) {
-        return new Money(amount + addend.amount, currency);
+        return new Sum(this, addend);
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        Money money = (Money) o;
+        return amount == money.amount
+                && currency().equals(money.currency());
+    }
+
+    @Override
+    public Money reduce(String to) {
+        return this;
     }
 }
