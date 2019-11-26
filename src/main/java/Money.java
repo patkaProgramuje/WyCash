@@ -1,4 +1,4 @@
-class Money {
+class Money implements Expression{
 
     private int amount;
     private String currency;
@@ -34,5 +34,9 @@ class Money {
     @Override
     public String toString() {
         return amount + "  " + currency;
+    }
+
+    Expression plus(Money addend) {
+        return new Money(amount + addend.amount, currency);
     }
 }
