@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3452c636-bed8-4ac3-a6b4-4a38e69c7663" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Expression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Money.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DollarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DollarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="D:\patka\learning_at_home\wyCash\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,22 +21,19 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Money.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="306">
               <caret line="27" column="22" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="22" />
               <folding>
+                <element signature="e#231#232#0" expanded="true" />
                 <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
                 <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
                 <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#636#637#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#858#859#0" expanded="true" />
-                <element signature="e#703#704#0" expanded="true" />
-                <element signature="e#749#750#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,11 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Pair.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-              <folding>
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-              </folding>
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -62,13 +52,31 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Sum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="26" />
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
               <folding>
                 <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
                 <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/wyCash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -76,14 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="e#61#62#0" expanded="true" />
-                <element signature="e#98#99#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -100,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DollarTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
+            <state relative-caret-position="1734">
               <caret line="106" column="18" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -126,15 +128,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/Franc.java" />
         <option value="$PROJECT_DIR$/src/main/java/Dollar.java" />
         <option value="$PROJECT_DIR$/src/main/java/Bank.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pair.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Sum.java" />
         <option value="$PROJECT_DIR$/src/main/java/Expression.java" />
         <option value="$PROJECT_DIR$/src/main/java/Money.java" />
         <option value="$PROJECT_DIR$/src/test/java/DollarTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sum.java" />
+        <option value="$PROJECT_DIR$/python/hello_world.py" />
+        <option value="$PROJECT_DIR$/python/wyCash.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -152,8 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,43 +166,29 @@
             <path>
               <item name="WyCash" type="b2602c69:ProjectViewProjectNode" />
               <item name="wyCash" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WyCash" type="b2602c69:ProjectViewProjectNode" />
               <item name="wyCash" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="WyCash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wyCash" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WyCash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wyCash" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="WyCash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wyCash" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python/hello_world.py" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -222,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DollarTest">
+  <component name="RunManager" selected="Python.wyCash">
     <configuration name="DollarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="patrycja.WyCash.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -242,6 +230,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="wyCash" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="patrycja.WyCash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\patka\learning_at_home\wyCash\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\patka\learning_at_home\wyCash\python\wyCash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DollarTest" />
+      <item itemvalue="JUnit.DollarTest.testMultiplication" />
+      <item itemvalue="Python.wyCash" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.DollarTest" />
@@ -308,9 +322,9 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.19798657" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.2033557" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.2592068" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.47733712" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -368,31 +382,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dollar.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Franc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Money.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Dollar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state relative-caret-position="306">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="22" />
           <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Franc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -400,24 +402,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Pair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-          <folding>
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-          </folding>
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#61#62#0" expanded="true" />
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -430,7 +422,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DollarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
+        <state relative-caret-position="1734">
           <caret line="106" column="18" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -441,40 +433,111 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="26" />
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding>
             <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
             <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Money.java">
+    <entry file="file://$PROJECT_DIR$/python/wyCash.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#858#859#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="107">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 (wyCash) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 (wyCash)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python|patrycja.WyCash</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
